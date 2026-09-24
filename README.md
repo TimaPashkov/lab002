@@ -8,7 +8,7 @@
 Пять ключевых слов для каждого языка:
 
 
-- C++: int, if, while, return, class
+- C++: 'int', 'if', 'while', 'return', 'class'
 - Java: public, static, void, new, false
 - Python: def, import, for, in, None
 
