@@ -10,7 +10,7 @@
 
 - C++: `int`, `if`, `while`, `return`, `class`
 - Java: `public`, `static`, `void`, `new`, `false`
-- Python: `def`, `import`, `for`, `in`, `import`
+- Python: `def`, `import`, `for`, `in`, `return`
 
 ---
 
